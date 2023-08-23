@@ -1,0 +1,59 @@
+Database
+----------------------------------
+It is place to store the related data.
+
+DBMS(Database Management System)
+-------------------------------------
+It is a software that helps us in managing the data in the database.
+It helps us in inserting, updating , deleting & retriving the data from the database.
+
+Data Models
+----------------
+It defines in which way the data is stored in the database.
+Ex: 
+Relational Model
+- In Relational model the data will be stored into the database in the form of table.
+- It is most used Data Model.
+
+RDBMS(Relational DBMS)
+-------------------------
+It is type of DBMS that uses Relational Model to store the data into database.
+Ex: MySQL, Oracle, Postgres etc...
+
+SQL(Structured Query Langauage)
+------------------------------------
+It is the language that the RDBMS software understand.
+
+Note: 
+1. There will be two components here i.e. db client(RDBMS) & Db in the server
+Ex: MySQL Workbench(Client) & Remote server
+
+2. DBeaver is a universal db client tool that can used to connect to different RDBMS softwares.
+
+
+SQL is divided into five sub-categories
+==========================================
+1. DDL(Data Defination Language)
+-------------------------------------
+Deals with creating, altering & deleteing the databases & tables.
+
+2. DML(Data Manipulation Language)
+-----------------------------------------------------
+Deals with inserting, updating & deleting the data/records in the table
+
+3. DQL(Data Query Language)
+----------------------------------------------------
+Deals with retrival of the data from the database.
+
+4. TCL(Transcation Control Language)
+5. DCL(Data Control Language)
+
+SQL Datatypes
+==================
+1. Numeric
+2. String
+3. Date & Time
+
+
+
+
